@@ -1,0 +1,13 @@
+Ctrl+x : exit nano 
+Ctrl+w : search nano
+Ctrl+k : remove line of text 
+Ctrl+a : moves cursor to start of line
+Ctrl+e : status update 
+Esc g  : place cursor at certain point
+Esc $  : Soft wrapping of overlong lines enabled
+Esc l  : Hard wrapping of overlong lines enabled
+-S     : enable smooth scrolling
+-W     : detect word boundaries differently by treating punctuation 
+characters as part of a word
+-i     : indent new lines to the previous line's indentation
+-$     : Enables soft wrapping  
